@@ -4,6 +4,7 @@ Doing data Science - Case study 1
 This document describes the Gross Domestic Product data and Educational data for 190 countries across the world. We are analyzing GDP of the countries, different income groups of these countries and their contribution in million US dollars of Gross domestic product in each country.
 
 ## Objective
+
 * Merge the data based on the country short code. How many of the IDs match?
 
 * Sort the data frame in ascending order by GDP (so United States is last). What is the 13th
@@ -21,7 +22,7 @@ This document describes the Gross Domestic Product data and Educational data for
   How many countries are Lower middle income but among the 38 nations with highest
   GDP?
   
-##Information about raw data files:
+## Information about raw data files
 
 * Both the raw data files are in Comma separated format (csv)
 
@@ -31,7 +32,7 @@ This document describes the Gross Domestic Product data and Educational data for
 
 * Filtering required to perform analysis on these files
 
-###Information about Data files
+## Information about Data files
 
 * Raw files are downloaded in folder "Data
 
