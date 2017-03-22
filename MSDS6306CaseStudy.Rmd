@@ -3,9 +3,9 @@ title: "MSDS6306CaseStudy"
 author: "Priyanka Tilak"
 date: "March 19, 2017"
 output:
-  html_document: default
-  pdf_document: default
   word_document: default
+  pdf_document: default
+  html_document: default
 ---
 
 ## Introduction to the Project
@@ -255,4 +255,13 @@ print(lower_mid_inc_count)
 * Looking at the statistical summary across various groups, we can see that the median income for High Income OECD group, comprising of only 23 countries, is atleast 10 times the median income of the other groups. 
 
 * According to the plot, GDP of countries in the Lower middle income and Upper middle income are very comparable. 
+
+## References
+
+* https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+* https://learnr.wordpress.com/2009/04/15/ggplot2-qualitative-colour-palettes/
+* https://www.r-bloggers.com 
+* https://stackoverflow.com 
+* http://www.statmethods.net 
+* https://www.r-project.org 
 
